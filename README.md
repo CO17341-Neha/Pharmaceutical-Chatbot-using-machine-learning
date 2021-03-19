@@ -22,10 +22,15 @@ Build the model
 Predict the response
 
 ### Libraries Used:
+
 NumPy
+
 Pandas
+
 Tkinter
+
 Keras
+
 Nltk
 
 
