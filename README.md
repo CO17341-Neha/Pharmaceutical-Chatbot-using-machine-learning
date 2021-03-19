@@ -8,11 +8,17 @@ Chatbots are used a lot in customer interaction, marketing on social network sit
 For example, patients can be supported before and after treatment. Doctors can find out quickly and at any time of the day about the interactions or other properties of drugs, and sales staff can prepare for customer meetings with the help of a bot.
 
 ### Method/ Usage:
+
 The steps to create a chatbot:
+
 Import and load the data file
+
 Pre-process data
+
 Create training and testing data
+
 Build the model
+
 Predict the response
 
 ### Libraries Used:
